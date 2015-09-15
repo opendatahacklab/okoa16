@@ -1,0 +1,103 @@
+/* GENERAL */
+
+body{
+	font-family: Tahoma, Geneva, sans-serif; 
+	padding : 0 0 0 0;
+	margin: 2em 2em 2em 2em;
+	color : #02324E;
+}
+
+a:link, a:visited,  a:active, a:hover{
+	color : inherit;
+	font-weight: normal;
+	text-decoration : none;
+	font-style : italic;
+}
+
+a:hover{
+	text-decoration : underline;
+}
+
+p.comingsoon{
+	text-align : center;
+	margin: 3em 3em 3em 3em;
+	font-size : 4em;
+}
+/* HEADER */
+
+header{
+	margin : 0 0 0 0;
+	padding: 0 0 1em 0;
+}
+
+#okoa16logo{
+	height : 10em;
+	margin : 0 2em 0 0;
+	float : left;
+}
+
+h1{
+	margin : 0 0 0 0;
+	padding : 0 0 0 0;
+	font-weight : normal;
+	color : #3c89b2;
+	font-size : 4em;
+	font-style : italic;
+}
+
+h1 span.year{
+	color : #bd6372;
+}
+
+p#subtitle{
+	margin : 0 0 0 0;
+	padding : 0 0 0 0;
+	font-size : 1em;
+	font-weight : bold;
+	color: #81bdd8;
+}
+
+abbr{
+	text-decoration : none;
+}
+
+/* NAVIGATION */
+nav{
+	display : block;
+	border : none;
+	background-color : #3c89b2;
+	color : white;
+	border-radius : 0.5em;
+	margin: 2em 30% 2em 30%;
+	padding:0.5em;
+	text-align : center;
+}
+
+
+nav img{
+	height:1.5em;
+	vertical-align : middle;
+	margin-right:0.2em;
+	margin-left:1em;
+}
+
+nav a:link, nav a:visited,  nav a:active, nav a:hover{
+	font-style : normal;
+}
+
+/* CRETITS */
+ol.iconlist{
+	list-style-type : none;
+}
+
+ol.iconlist img {
+	height : 3em;
+	vertical-align : middle;
+	margin : 0.3em 1em 1em 1em;
+	float : left;
+}
+
+ol.iconlist li{
+	clear:left;
+	margin-bottom : 1em;
+}
