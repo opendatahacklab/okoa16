@@ -49,7 +49,7 @@ h1 span.year{
 	color : #bd6372;
 }
 
-p#subtitle{
+p#subtitle, p.date{
 	margin : 0 0 0 0;
 	padding : 0 0 0 0;
 	font-size : 1em;
@@ -63,12 +63,13 @@ abbr{
 
 /* NAVIGATION */
 nav{
+	clear:both;
 	display : block;
 	border : none;
 	background-color : #3c89b2;
 	color : white;
 	border-radius : 0.5em;
-	margin: 2em 30% 2em 30%;
+	margin: 2em 20% 2em 20%;
 	padding:0.5em;
 	text-align : center;
 }
@@ -84,6 +85,45 @@ nav img{
 nav a:link, nav a:visited,  nav a:active, nav a:hover{
 	font-style : normal;
 }
+
+/* SECTIONS */
+section{
+	margin : 4em 1em 1em 1em;
+}
+
+p{
+	margin : 2em 1em 1em 1em;
+	padding : 0 1em 0 1em;
+}
+
+h2{
+	/* color : #3c89b2; */
+	font-size : 2em;
+	text-align : center;
+	border-bottom : solid #81bdd8 2px;
+	margin: 0 0 1em 0;
+	font-family: Arial Black, sans-serif;
+}
+/* INTRO */
+blockquote{
+	margin : 1em 30% 1em 30%;
+	text-align: justify;
+	font-style : italic;
+	font-size : 1em;
+}
+
+blockquote:before
+{
+content: '\201C';
+}
+
+blockquote:after
+{
+content: '\201D';
+}
+
+
+
 
 /* CRETITS */
 ol.iconlist{
