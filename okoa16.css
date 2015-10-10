@@ -89,11 +89,12 @@ nav a:link, nav a:visited,  nav a:active, nav a:hover{
 /* SECTIONS */
 section{
 	margin : 4em 1em 1em 1em;
+	clear: both;
 }
 
-p{
-	margin : 2em 1em 1em 1em;
-	padding : 0 1em 0 1em;
+p, blockquote{
+	margin : 1em 1em 1em 1em;
+	padding : 0 0 0 0;
 }
 
 h2{
@@ -104,9 +105,49 @@ h2{
 	margin: 0 0 1em 0;
 	font-family: Arial Black, sans-serif;
 }
+
+/* SECTION CONTENTS */
+div.piece{
+	margin-top:2em;
+	margin-bottom:2em;
+	padding: 1em 1em 1em 1em;
+	max-width:40em;
+	border:none;
+	border-radius: 2em;
+}
+
+div.left{
+	margin-left:10%;
+}
+
+div.center{
+	margin-left:30%;
+}
+
+div.right{
+	margin-left:50%;
+}
+
+div.red{	
+	background-color:#f3aaaa; 
+/*	background-color:#f1c5c5; */
+}
+
+div.yellow{
+	background-color:#f8fb00;
+}
+
+div.blue{
+	background-color:#a5cddd;
+}
+
+/*div.piece p{
+	display: inline-block;
+}*/
+
 /* INTRO */
 blockquote{
-	margin : 1em 30% 1em 30%;
+/*	margin : 0 6em 1em 6em; */
 	text-align: justify;
 	font-style : italic;
 	font-size : 1em;
@@ -125,7 +166,7 @@ content: '\201D';
 
 
 
-/* CRETITS */
+/* CREDITS */
 ol.iconlist{
 	list-style-type : none;
 }
