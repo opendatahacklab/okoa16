@@ -23,6 +23,22 @@ p.comingsoon{
 	margin: 3em 3em 3em 3em;
 	font-size : 4em;
 }
+
+ul {
+	list-style-type:none;
+	margin : 0 0 0 0;
+	padding : 1em 0.5em 1em 0.3em;
+}
+
+ul li{
+	background-image : url('imgs/capitello.png');
+	background-repeat: no-repeat;
+	background-size:1.2em 1.2em;
+	background-position: left center;
+	margin : 0 0 1em 0;
+	padding : 0.5em 0 0.5em 2em;
+}
+
 /* HEADER */
 
 header{
@@ -104,6 +120,17 @@ h2{
 	border-bottom : solid #81bdd8 2px;
 	margin: 0 0 1em 0;
 	font-family: Arial Black, sans-serif;
+}
+
+h3{
+	font-size : 1em;
+	text-transform: uppercase;
+	font-weight : normal;
+	background-color : #3c89b2;
+	color : white;
+	border-radius : 0.5em;
+	margin: 0 0 0 0;
+	padding:0.5em;
 }
 
 /* SECTION CONTENTS */
