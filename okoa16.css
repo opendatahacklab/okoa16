@@ -168,6 +168,18 @@ div.blue{
 	background-color:#a5cddd;
 }
 
+div.piece h3{
+	display : inline-block;
+	float:left;
+	clear:both;
+	color : white;
+/*	font-size : 2em;
+	font-weight : normal;
+	font-style: italic;
+	text-transform: none;*/
+/*	padding : 0 1em 1em 0; */
+	margin : 0 1em 0.5em 0;	
+}
 /*div.piece p{
 	display: inline-block;
 }*/
