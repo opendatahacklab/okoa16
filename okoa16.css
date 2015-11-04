@@ -133,6 +133,19 @@ h3{
 	padding:0.5em;
 }
 
+
+advise{
+	clear:both;
+	display : block;
+	border : none;
+	background-color : #E9967A;
+	color : white;
+	border-radius : 0.5em;
+	margin: 2em 30% 2em 30%;
+	padding:0.5em;
+	text-align : center;
+}
+
 /* SECTION CONTENTS */
 div.piece{
 	margin-top:2em;
@@ -221,3 +234,4 @@ ol.iconlist li{
 	clear:left;
 	margin-bottom : 1em;
 }
+
