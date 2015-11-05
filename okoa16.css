@@ -39,6 +39,20 @@ ul li{
 	padding : 0.5em 0 0.5em 2em;
 }
 
+ol{
+	 list-style-position: inside;
+}
+
+ol li{
+	margin : 0 0 1em 0;
+	padding : 0.5em 0 0.5em 2em;
+}
+
+em.partitle{
+	font-weight:bold;
+	font-style: normal;
+}
+
 /* HEADER */
 
 header{
@@ -183,7 +197,7 @@ div.blue{
 	background-color:#a5cddd;
 }
 
-div.piece h3{
+div.piece h3, h3.baloon{
 	display : inline-block;
 	float:left;
 	clear:both;
