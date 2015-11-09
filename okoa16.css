@@ -53,6 +53,7 @@ em.partitle{
 	font-style: normal;
 }
 
+
 /* HEADER */
 
 header{
@@ -231,8 +232,36 @@ blockquote:after
 content: '\201D';
 }
 
+/* TOPICS */
+ul.topics {
+	list-style-type:none;
+	margin : 0 0 0 0;
+	padding : 1em 0.5em 1em 0.3em;
+}
 
+ul.topics li{
+	background-image : none;
+	background-color : #CFE6F0;
+	margin : 0 0 1em 2em;
+	padding : 0.5em 0 0.5em 0.5em;
+}
 
+/* DATES */
+ol.dates {
+	list-style-type:none;
+	margin : 1em 1em 1em 1em;
+	padding : 0 0 0 2em;
+}
+
+ol.dates li{
+	margin : 0 0 0 0;
+	padding : 0.1em 0 0 0;
+}
+
+ol.dates li em{
+	font-weight:bold;
+	font-style: normal;
+}
 
 /* CREDITS */
 ol.iconlist{
