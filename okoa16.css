@@ -280,3 +280,17 @@ ol.iconlist li{
 	margin-bottom : 1em;
 }
 
+/* Special links */
+p.button{
+	margin-top:2em 2em 2em 2em;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	border:none;
+	border-radius: 0.5em;
+	font-size: 1.5em;
+	display: inline-block;
+	float: right;
+	clear:both;	
+	color: white;
+	background-color:#ED8282; 
+	box-shadow : 2px 2px 1px 1px #f3aaaa;
+}
