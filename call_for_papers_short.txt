@@ -1,0 +1,17 @@
+2nd OPEN KNOWLEDGE OPEN ARTS WORKSHOP (OKOA16) - Call for presentation proposals is open!
+
+Open Knowledge Open Arts (OKOA) is an informal workshop about open data
+and open knowledge for the cultural heritage.  The OKOA scientific committee invites submission of abstracts for its 2016 workshop 
+that this year will be focused on any aspect of open archaeology. 
+
+Contributions that address the following topics are welcome and not limited to:
+
+- Open Data in Archaeology: prospective, possibilities and applications (Manifesto, platforms, portals, formats, ...);
+- sharing and interaction between geographical open data and cultural heritage (for example with Web Gis);
+- legal aspects about the definition of "sensitive data" applied on cultural heritage;
+- creative works and intellectual property (thesis, research and publication);
+- knowledge management about cultural heritage in Education: from the classroom to the public space;
+- lifelong learning strategies and practices concerning cultural heritage in the digital domain;
+- any other topics inherent Open Data.
+
+see also http://www.dmi.unict.it/~longo/okoa16/

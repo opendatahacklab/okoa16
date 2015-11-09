@@ -1,0 +1,86 @@
+Title: 2nd OPEN KNOWLEDGE OPEN ARTS WORKSHOP (OKOA16) - Call for presentation proposals
+
+Apologies for cross-posting.
+
+The OKOA scientific committee invites submission of abstracts for its 2016 workshop 
+that this year will be focused on any aspect of open archaeology. 
+
+WORKSHOP INFORMATION
+
+"A world where knowledge creates power for the many, not the few. 
+A world where data frees us - to make informed choices about how we live, 
+what we buy and who gets our vote. 
+A world where information and insights are accessible - and apparent - to everyone. 
+This is the world we choose."
+ 
+This statement, reported in the Open Knowledge Foundation web site, summarizes very well 
+the thought and the aims of the Open Knowledge Movement. The Cultural Heritage Knowledge 
+and his open dissemination is an important right and in fact occupies a significant 
+position within the international human right discussion.
+
+Why? Because a deep understanding of cultural heritage can provide people right instruments 
+to support social, scientific, technical and cultural progress, to improve themselves and being “free”.
+
+How do We reach this goal?
+In our opinion, only believing in the 'open thinking' principle. It implies, indeed, an open
+and total access to the cultural heritage and to data, studies and documents produced about it.
+So, the aim of the Open Knowledge Open Arts workshop is to investigate how the open sharing 
+of the data, in a readable form for all people and with no limitation reuse can help research, 
+production and fruition of Cultural Heritage.
+ 
+WHEN: 26 February 2016
+WHERE: Dipartimento di Matematica e Informatica, University of Catania (Città Universitaria, polo scientifico di via S. Sofia)
+CONTACT:  Cristiano Longo longo@dmi.unict.it 
+
+ 
+TOPICS
+
+For the 2016 workshop, contributions that address the following topics are welcome and not limited to:
+
+- Open Data in Archaeology: prospective, possibilities and applications (Manifesto, platforms, portals, formats, ...);
+- sharing and interaction between geographical open data and cultural heritage (for example with Web Gis);
+- legal aspects about the definition of "sensitive data" applied on cultural heritage;
+- creative works and intellectual property (thesis, research and publication);
+- knowledge management about cultural heritage in Education: from the classroom to the public space;
+- lifelong learning strategies and practices concerning cultural heritage in the digital domain;
+- any other topics inherent Open Data.
+
+Types of Proposals
+ 
+Proposals may be of two types: (1) short presentations; (2) full presentations. Based on 
+peer review and its mandate to create a balanced and varied program, the Program Committee may offer 
+acceptance in a different category from the one initially proposed. Papers  may be given in English, and Italian.
+
+1) Short presentations
+Short paper proposals (500  words) are appropriate for reporting on experiments or work in progress, or for describing 
+newly conceived tools or software in early stages of development. This category of presentation will have a length held to 
+5 minutes each in order to allow time for questions.
+
+2) Full presentations
+Proposals for full presentations (500 words) are appropriate for: substantial, completed, and previously unpublished 
+research; reports on the development of significant new methodologies or digital resources; and/or rigorous theoretical, 
+speculative, or critical discussions. Individual papers will be allocated 20 minutes for presentation.
+
+The deadline for submitting proposals for short and full presentations  to the OKOA workshop is midnight GMT, 10 December, 2015. 
+Presenters will be notified of acceptance by 31 December, 2015.
+
+A link to the online abstract submission system is available here on EASYCHAIR platform 
+https://easychair.org/conferences/?conf=okoa16 
+
+PUBBLICATION
+After the conference, authors will be asked to submit a paper for the pubblication according to the guidelines that will be given. 
+According to OKOA16 presentations there will be space both for short papers and full papers. 
+
+The workshop partecipation is free. Please fill the online schedule to the event in order to better organization. 
+
+IMPORTANT DATES SUMMARY
+
+- 10/12/2016 Deadline for submission of abstracts
+- 31/12/2016 Notification of acceptance
+- 31/01/2016 Deadline for on - line registration for #OKOA16 
+- 26/02/2016 Conference Day
+
+Follow #OKOA16 on
+http://www.dmi.unict.it/~longo/okoa16/
+https://www.facebook.com/groups/133271063687638/?fref=ts
+
