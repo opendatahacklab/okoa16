@@ -294,3 +294,9 @@ p.button{
 	background-color:#ED8282; 
 	box-shadow : 2px 2px 1px 1px #f3aaaa;
 }
+
+span.relevant{
+	font-family:'comic sans ms',fantasy;
+	font-style: italic;
+	font-size: 120%;
+}
