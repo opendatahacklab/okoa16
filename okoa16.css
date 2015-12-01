@@ -263,6 +263,10 @@ ol.dates li em{
 	font-style: normal;
 }
 
+ol.dates li em.elapsed{
+	text-decoration: line-through;
+}
+
 /* CREDITS */
 ol.iconlist{
 	list-style-type : none;
