@@ -53,6 +53,10 @@ em.partitle{
 	font-style: normal;
 }
 
+p.goup{
+	text-align : center;
+	clear: both;
+}
 
 /* HEADER */
 
