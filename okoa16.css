@@ -135,6 +135,8 @@ img.supporter{
 	display: inline-block;
 	margin:0.2em 0.2em 0.2em 0.2em;
 	padding:0 0 0 0;
+	max-height : 150px;
+	vertical-align:middle;
 }
 /* SECTIONS */
 section{
