@@ -253,6 +253,25 @@ blockquote:after
 content: '\201D';
 }
 
+/* INVITED */
+section#invited img {
+	vertical-align : text-top;
+	margin : 0 1em 0 1em;
+	float : left;
+	border: solid 2px;
+}
+
+section#invited p {
+	padding-top : 0.3em;
+}
+
+section#invited h3 {
+	display : inline-block;
+	float:left;
+	color : white;
+	margin : 0em 1em 0 0;	
+}
+
 /* TOPICS */
 ul.topics {
 	list-style-type:none;
