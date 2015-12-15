@@ -133,9 +133,10 @@ section#supporters{
 img.supporter{
 	clear : both;
 	display: inline-block;
-	margin:0.2em 0.2em 0.2em 0.2em;
+	margin:0.2em 0.5em 0.2em 0.5em;
 	padding:0 0 0 0;
-	max-height : 150px;
+	max-height : 100px;
+	max-width : 200px;
 	vertical-align:middle;
 }
 /* SECTIONS */
