@@ -8,6 +8,11 @@ include("accessTracker.php");
 <title>Open Knowledge Open Arts 2016 Workshop</title>
 <link rel="stylesheet" type="text/css" href="okoa16.css" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="og:image" content="imgs/okoa16.png" />
+<meta name="og:description" content="The aim of the Open Knowledge Open Arts workshop is to
+				investigate how the open sharing of the data, in a readable form for
+				all people and with no limitation on reuse can help research,
+				production and fruition of Cultural Heritage." />
 </head>
 
 <body>
@@ -119,7 +124,7 @@ include("accessTracker.php");
 			<p>
 				The aim of the <em>Open Knowledge Open Arts</em> workshop is to
 				investigate how the open sharing of the data, in a readable form for
-				all people and with no limitation reuse can help research,
+				all people and with no limitation on reuse can help research,
 				production and fruition of Cultural Heritage.
 			</p>
 		</div>
