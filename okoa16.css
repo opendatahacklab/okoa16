@@ -27,7 +27,7 @@ p.comingsoon{
 ul {
 	list-style-type:none;
 	margin : 0 0 0 0;
-	padding : 1em 0.5em 1em 0.3em;
+	padding : 1em 0.5em 1em 1em;
 }
 
 ul li{
@@ -35,7 +35,7 @@ ul li{
 	background-repeat: no-repeat;
 	background-size:1.2em 1.2em;
 	background-position: left center;
-	margin : 0 0 1em 0;
+	margin : 0 0 0 0;
 	padding : 0.5em 0 0.5em 2em;
 }
 
@@ -369,4 +369,20 @@ span.relevant{
 	font-family:'comic sans ms',fantasy;
 	font-style: italic;
 	font-size: 120%;
+}
+
+/* Organizations */
+
+p.organizations{
+	margin: 2em 1em 2em 1em;
+	text-align : center;
+	vertical-align: middle;
+}
+
+p.organizations img{
+	max-height : 150px;
+	max-width : 300px;
+	padding: 0 2em 0 0;
+	margin:0 0 0 0;	
+	vertical-align: middle;
 }
