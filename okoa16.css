@@ -291,6 +291,13 @@ section#invited p {
 	padding-top : 0.3em;
 }
 
+h3.invited{
+	display : inline-block;
+	float:left;
+	color : white;
+	margin : 0em 1em 0 0;	
+}
+
 section#invited h3 {
 	display : inline-block;
 	float:left;
@@ -299,17 +306,22 @@ section#invited h3 {
 }
 
 /* TOPICS */
-ul.topics {
+ul.bars {
 	list-style-type:none;
 	margin : 0 0 0 0;
 	padding : 1em 0.5em 1em 0.3em;
 }
 
-ul.topics li{
+ul.bars li{
 	background-image : none;
 	background-color : #CFE6F0;
-	margin : 0 0 1em 2em;
+	margin : 0 0 0.2em 2em;
 	padding : 0.5em 0 0.5em 0.5em;
+}
+
+ul.bars p{
+	margin: 0 0 0 0;
+	padding:0 0 0 0;
 }
 
 /* DATES */
