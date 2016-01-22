@@ -59,13 +59,19 @@ p.goup {
 
 /* HEADER */
 header {
-	margin: 2em 2em 1em 2em;
+	margin: 1em 0 1em 0;
 	padding: 0 0 1em 0;
 }
 
 #okoa16logo {
 	height: 6em;
-	margin: 0 2em 0 0;
+	margin: 0 2em 0 1em;
+	float: left;
+}
+
+#unictlogo {
+	height: 7em;
+	margin: 0 1em 0 0;
 	float: right;
 }
 
@@ -97,6 +103,7 @@ abbr {
 
 /* NAVIGATION */
 nav {
+	clear : both;
 	float: right;
 	display: block;
 	border: none;
