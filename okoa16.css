@@ -162,7 +162,7 @@ section#supporters {
 /* SECTIONS */
 section {
 	margin: 4em 1em 1em 1em;
-	/* clear: both; */
+	clear: both;
 }
 
 p,blockquote {
@@ -435,4 +435,39 @@ td.pabstract img{
 	margin: 0 0 0 0;
 	padding : 0 0 0 0;
 	width : 1.5em;
+}
+
+/* SUPPORTERS */
+section.supporter{
+	clear : both;
+	margin: 1em 1em 2em 1em;
+	padding : 0 0 0 0;
+	border-top : solid 4px;
+}
+
+*.supporterdesc{
+	color : black;
+	max-width : 50em;
+	text-align : justify;
+}
+
+img.supporterlogo{
+	max-width : 20em;
+	max-height : 5em;
+	margin: 0 0 0 0;
+	padding : 0 2em 0 0;
+	vertical-align : middle;	
+}
+
+img.supportersite, img.goup{
+	height:2em;
+	vertical-align : top;
+}
+
+img.supporterimg{
+	float:right;
+	max-width : 50em;
+	padding : 0 0em 0 0em;
+	margin : 2em 2em 2em 2em;
+	border : solid 1px;
 }
