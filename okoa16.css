@@ -444,6 +444,18 @@ td.pabstract img{
 	width : 1.5em;
 }
 
+td.pslides{
+	margin : 0 0 0 0;
+	padding : 0 0 0 0;
+	width : 2em;
+}
+
+td.pslides img{
+	margin: 0 0 0 0;
+	padding : 0 0 0 0;
+	width : 1.5em;
+}
+
 /* SUPPORTERS */
 section.supporter{
 	clear : both;
